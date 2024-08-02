@@ -2,8 +2,8 @@
 
 ## Demo
 
-- [Blaue Variante](/blue.html)
-- [Orange Variante](/orange.html)
+- [Blaue Variante](/demo-blue.html)
+- [Orange Variante](/demo-orange.html)
 
 ## Einbettung
 
