@@ -5,6 +5,15 @@
 - [Blaue Variante](/demo-blue.html)
 - [Orange Variante](/demo-orange.html)
 
+## Assets
+
+Hier könnt ihr die Dateien herunterladen:
+
+- [Blaue Variante](https://github.com/mayaherbst/decarb-efficiency-svg-demo/tree/main/blue)
+- [Orange Variante](https://github.com/mayaherbst/decarb-efficiency-svg-demo/tree/main/orange)
+
+Bitte ladet sie herunter und hostet sie selber, GitHub mag es nicht, wenn man sie als CDN verwendet.
+
 ## Einbettung
 
 Die JS und CSS files im `<head>` einbinden:
